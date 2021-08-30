@@ -21,7 +21,7 @@ I'm arif and I'm interested in software development. I started from html css and
   <img  src="/icons/1298738_facebook_brand_fb_logo_social media_icon.png"/>
   <img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/>
 </p>
-***
+
 
 **Hold your breathe and take a look to my <a href="https://www.fiverr.com/arifjawad241" text-decoration="none">Fiverr</a>**
 
@@ -66,7 +66,7 @@ I'm arif and I'm interested in software development. I started from html css and
 
 <p  align="right">
 
-<img src="imgs/spi2.png" width="300" >
+<img src="imgs/spi3.png" width="300" >
 
 </p>
 
