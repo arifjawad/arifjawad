@@ -5,21 +5,25 @@
 ***
 
 hello, 
-I'm arif and I'm interested in software development. I started from html css and found myself developing flutter mobile apps. Currently, I'm working as a web developer at freelancing marketplace. In multiverse, I'm from CSE background and graduated from North South University. :))
+I'm arif and I'm interested in software development. I started from html css and found myself trying to develop flutter mobile apps. Because I try to learn everyday.
+I design to make people's vision to live also taking inspirations from surroundings or great works. I create modern websites and try to put them to the front row.
+By the way, I'm working as a web developer at freelancing marketplace. 
+
+In multiverse, I'm from CSE background and graduated from North South University. :))
 
 ***
 <h3 align="right">You can find me on-</h3>
 <p align="right">
-  
-  <img  src="/icons/1298734_dribbble_icon.png"/>
-  <img  src="/icons/1298747_instagram_brand_logo_social media_icon.png"/>
-  <img  src="/icons/1298727_behance_brand_communication_logo_icon.png"/>
-  <img  src="/icons/3069760_circle_fiverr_round icon_icon.png"/>
-  <img  src="/icons/5279113_blog_medium_medium logo_icon.png"/>
-  <img  src="/icons/1298732_codepen_icon.png"/>
-  <img  src="/icons/1298778_youtube_play_video_icon.png"/>
-  <img  src="/icons/1298738_facebook_brand_fb_logo_social media_icon.png"/>
-  <img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/>
+   <a href="https://www.linkedin.com/in/arifjawad/"><img  src="/icons/linkedin.png"/></a>
+  <a href="https://dribbble.com/arifjawad_"><img  src="/icons/1298734_dribbble_icon.png"/></a>
+  <a href="hhttps://www.instagram.com/arifjawad_"><img  src="/icons/1298747_instagram_brand_logo_social media_icon.png"/></a>
+  <a href="https://www.behance.net/arifjawad2"><img  src="/icons/1298727_behance_brand_communication_logo_icon.png"/></a>
+  <a href="https://www.fiverr.com/arifjawad241"><img  src="/icons/3069760_circle_fiverr_round icon_icon.png"/></a>
+  <a href="https://medium.com/@arifjawad.ajp"><img  src="/icons/5279113_blog_medium_medium logo_icon.png"/></a>
+  <a href="https://codepen.io/arifjawad_"><img  src="/icons/1298732_codepen_icon.png"/></a>
+  <a href="https://www.youtube.com/channel/UCZPxGoPfbwaCX22cy4Y4W3w"><img  src="/icons/1298778_youtube_play_video_icon.png"/></a>
+  <a href="https://www.facebook.com/arif.jawad.96/"><img  src="/icons/1298738_facebook_brand_fb_logo_social media_icon.png"/></a>
+  <a href="https://twitter.com/arifjawad_"><img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/></a>
 </p>
 
 
