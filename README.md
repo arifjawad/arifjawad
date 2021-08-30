@@ -1,9 +1,11 @@
-<img src="https://github.com/arifjawad/a rifjawad/blob/72a4e7137b4c2e2ef2db0efae10b1e8e2c3b6c53/imgs/bannergit2.jpg" width="100%" >(https://arif-jawad.com)
+<img src="https://github.com/arifjawad/a rifjawad/blob/72a4e7137b4c2e2ef2db0efae10b1e8e2c3b6c53/imgs/bannergit2.jpg" width="100%" >
 
 ***
 
 ***
-hello, I'm arif and I'm interested in software development. I started from html css and found myself developing flutter mobile apps. Currently, I'm working as a web developer at freelancing marketplace. In multiverse, I'm from CSE background and graduated from North South University. :))
+
+hello, 
+I'm arif and I'm interested in software development. I started from html css and found myself developing flutter mobile apps. Currently, I'm working as a web developer at freelancing marketplace. In multiverse, I'm from CSE background and graduated from North South University. :))
 
 ***
 <h3 align="right">You can find me on-</h3>
@@ -21,6 +23,8 @@ hello, I'm arif and I'm interested in software development. I started from html 
 </p>
 ***
 **Hold your breathe and take a look to my <a href="https://www.fiverr.com/arifjawad241" text-decoration="none">Fiverr</a>**
+
+**visit my website :  <a href="https://arif-jawad.com" text-decoration="none">arif-jawad.com</a>**
 
 ***Here's something I have on github-***
 <br>
