@@ -1,4 +1,4 @@
-<img src="https://github.com/arifjawad/a rifjawad/blob/72a4e7137b4c2e2ef2db0efae10b1e8e2c3b6c53/imgs/bannergit2.jpg" width="100%" >
+<img src="imgs/banner2.png" width="100%" >
 
 ***
 
