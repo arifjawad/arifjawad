@@ -36,7 +36,7 @@ hello, I'm arif and I'm interested in software development. I started from html 
 ***
 **Featured Repos-**
 
-<p>
+<p  align="justify">
 <img src="https://github-readme-stats-mu-taupe.vercel.app/api/pin/?username=arifjawad&repo=github-readme-stats&bg_color=0d1117&text_color=929292&hide_border=true" width="30%" />
 
 <img src="https://github-readme-stats-mu-taupe.vercel.app/api/pin/?username=arifjawad&repo=ema-john&theme=github-dark&bg_color=0d1117&text_color=929292&hide_border=true" width="30%" />
