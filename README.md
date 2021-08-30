@@ -66,7 +66,7 @@ I'm arif and I'm interested in software development. I started from html css and
 
 <p  align="right">
 
-<img src="imgs/spiderman.png" width="300" >
+<img src="imgs/spiderman.png" width="200" >
 
 </p>
 
