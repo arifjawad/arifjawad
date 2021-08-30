@@ -9,12 +9,20 @@
 **Hold your breathe and take a look to my <a href="https://www.fiverr.com/arifjawad241" text-decoration="none">Fiverr</a>**
 
 **Have a look. I have something on github-**
+##Streak Stats
 
-<p float="left" display="flex" justify-content="space-around">
-<img src="https://github-readme-stats-mu-taupe.vercel.app/api?username=arifjawad&show_icons=true&theme=dark" width="400" height="300"/>
-<img src="https://github-readme-stats-mu-taupe.vercel.app/api/top-langs/?username=arifjawad&layout=compact&bg_color=151515&text_color=929292" width="400" height="300"/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arifjawad&theme=holi-theme&stroke=CA2212" alt="arifjawad" /></p>
+
+<p float="left" align="center">
+<img  width="400px" height="250px" src="https://github-readme-stats-mu-taupe.vercel.app/api?username=arifjawad&show_icons=true&theme=dark"/>
+<img  width="400px" height="250px" src="https://github-readme-stats-mu-taupe.vercel.app/api/top-langs/?username=arifjawad&layout=compact&bg_color=151515&text_color=929292"/>
 </p>
 <br>
+
+  <br/>
+   <a href="https://github.com/arifjawad"><img alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arifjawad&theme=react-dark" /></a>
+  <br/>
+
 
 ***
 **Featured Repos-**
