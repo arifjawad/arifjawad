@@ -14,7 +14,7 @@ In multiverse, I'm from CSE background and graduated from North South University
 ***
 <h3 align="right">You can find me on-</h3>
 <p align="right">
-   <a href="https://www.linkedin.com/in/arifjawad/"><img  src="/icons/linkedin.png"/></a>
+   <a href="https://www.linkedin.com/in/arifjawad/"><img  src="/icons/linkedin1.png"/></a>
   <a href="https://dribbble.com/arifjawad_"><img  src="/icons/1298734_dribbble_icon.png"/></a>
   <a href="hhttps://www.instagram.com/arifjawad_"><img  src="/icons/1298747_instagram_brand_logo_social media_icon.png"/></a>
   <a href="https://www.behance.net/arifjawad2"><img  src="/icons/1298727_behance_brand_communication_logo_icon.png"/></a>
