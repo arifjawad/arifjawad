@@ -6,6 +6,20 @@
 hello, I'm arif and I'm interested in software development. I started from html css and found myself developing flutter mobile apps. Currently, I'm working as a web developer at freelancing marketplace. In multiverse, I'm from CSE background and graduated from North South University. :))
 
 ***
+<h3 align="right">You can find me on-</h3>
+<p align="right">
+  
+  <img  src="/icons/1298734_dribbble_icon.png"/>
+  <img  src="/icons/1298747_instagram_brand_logo_social media_icon.png"/>
+  <img  src="/icons/1298727_behance_brand_communication_logo_icon.png"/>
+  <img  src="/icons/3069760_circle_fiverr_round icon_icon.png"/>
+  <img  src="/icons/5279113_blog_medium_medium logo_icon.png"/>
+  <img  src="/icons/1298732_codepen_icon.png"/>
+  <img  src="/icons/1298778_youtube_play_video_icon.png"/>
+  <img  src="/icons/1298738_facebook_brand_fb_logo_social media_icon.png"/>
+  <img  src="/icons/1298770_twitter_bird_social media_tweet_icon.png"/>
+</p>
+***
 **Hold your breathe and take a look to my <a href="https://www.fiverr.com/arifjawad241" text-decoration="none">Fiverr</a>**
 
 ***Here's something I have on github-***
