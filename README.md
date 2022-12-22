@@ -67,11 +67,10 @@ In multiverse, I'm from CSE background and graduated from North South University
   
 </p>
 
-<a align="left" href="https://app.daily.dev/arifjawad"><img src="https://api.daily.dev/devcards/2345bbec8791494c94f816e39fe6b136.png?r=6mg" width="200" alt="Arif Jawad's Dev Card"/></a>
+
 
 <p  align="right">
-
-<img src="imgs/spiderman.png" width="200" >
-
+<a align="left" href="https://app.daily.dev/arifjawad"><img src="https://api.daily.dev/devcards/2345bbec8791494c94f816e39fe6b136.png?r=6mg" width="200" alt="Arif Jawad's Dev Card"/></a>
+<img align="right" src="imgs/spiderman.png" width="200" >
 </p>
 
